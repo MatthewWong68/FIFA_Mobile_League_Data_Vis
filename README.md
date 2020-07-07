@@ -8,7 +8,7 @@ This part will be the most time-consuming section of the whole data visualizatio
 
 Since there isn't any API(s) are available for the game, the only way to get the game data is to input manually.
 
-The scheme of the input data is:
+The sample of the input data:
 
 |playername|playerOVR|playerCHEM|goalScored|opponentName|opponentOVR|opponentCHEM|playerLeague|opponentLeague|
 |---       |---      |---       |---       |---         |---        |---         |---         |---           |
@@ -39,6 +39,8 @@ https://observablehq.com/@mbostock/flow-o-matic
 
 #### Result: (Scots Boys) 681 - 713 (HongKongers)
 
+#### Interactive Dashboard is also available using the famous BI Tool -- [Tableau](https://public.tableau.com/profile/mattfootballvis#!/vizhome/FMtournament/HK)
+
 Few interesting insights are generated.
 
 ### 1. Average goal scoreded per match in the tournament: 12.907
@@ -61,8 +63,19 @@ Standard deviation of the goal scored for Scots Boys: 5.503
 
 Standard deviation of the goal scored for HongKongers: 4.384
 
-Sankey Diagram:
+### 5. HongKongers struggle more since more than half of their matches are playing against a higher power opponent.
+### In contrast, Scots Boys only got 7 players (out of 18) playing against an opponent who has a higher power.
+
+## Data Encoding:
+
+#### Color: Power Difference
+
+#### Area/Length: Goal Scored
+
+Sankey Diagram for Scots Boys:
 
 ![alt text](SB.png)
+
+Sankey Diagram for HongKongers:
 
 ![alt text](HK.png)
