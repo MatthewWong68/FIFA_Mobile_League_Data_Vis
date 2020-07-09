@@ -39,7 +39,7 @@ https://observablehq.com/@mbostock/flow-o-matic
 
 #### Result: (Scots Boys) 681 - 713 (HongKongers)
 
-#### Interactive Dashboard is also available using the famous BI Tool -- [Tableau](https://public.tableau.com/profile/mattfootballvis#!/vizhome/FMtournament/HK)
+#### Interactive Dashboard is also available using the famous BI Tool -- [Tableau](https://public.tableau.com/profile/mattfootballvis#!/vizhome/FMtournament/HK_Overview)
 
 Few interesting insights are generated.
 
