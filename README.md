@@ -1,6 +1,9 @@
 # FIFA Mobile League Tournament Analysis
 
-Technology/library used: numpy, matplotlib, pandas, Tableau, D3, JavaScripts
+Technology/library used: 
+- Python, numpy, matplotlib, pandas
+- Tableau
+- JavaScript, D3
 
 ## 1. Data Entry
 
@@ -39,9 +42,9 @@ https://observablehq.com/@mbostock/flow-o-matic
 
 #### Result: (Scots Boys) 681 - 713 (HongKongers)
 
-#### Interactive Dashboard is also available using the famous BI Tool -- [Tableau](https://public.tableau.com/profile/mattfootballvis#!/vizhome/FMtournament/HK_Overview)
+#### Interactive Dashboard is also available on [Tableau](https://public.tableau.com/profile/mattfootballvis#!/vizhome/FMtournament/HK_Overview)
 
-Few interesting insights are generated.
+Some interesting insights are observed.
 
 ### 1. Average goal scoreded per match in the tournament: 12.907
 
